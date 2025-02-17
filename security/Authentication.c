@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
-char already_SET_USERNAME[] = "Pratik";                                 //pre-defined details
-char already_SET_PASSWORD[] = "Pratik@123";                             //username & password
+char already_SET_USERNAME[] = "Student";                                 //pre-defined details
+char already_SET_PASSWORD[] = "Student@123";                             //username & password
 
 char username[50];                                                      //initialize space for new
 char password[50];                                                      //username & password
-//#define MAX_USERNAME_LEN 50
-//#define MAX_PASSWORD_LEN 50
 
 int main() {
     
